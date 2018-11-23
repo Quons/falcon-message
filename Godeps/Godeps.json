@@ -1,0 +1,124 @@
+{
+	"ImportPath": "falcon-message",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v3.2.0-4-g3af4c74",
+			"Rev": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8"
+		},
+		{
+			"ImportPath": "github.com/go-playground/locales",
+			"Comment": "v0.12.1",
+			"Rev": "f63010822830b6fe52288ee52d5a1151088ce039"
+		},
+		{
+			"ImportPath": "github.com/go-playground/locales/currency",
+			"Comment": "v0.12.1",
+			"Rev": "f63010822830b6fe52288ee52d5a1151088ce039"
+		},
+		{
+			"ImportPath": "github.com/go-playground/universal-translator",
+			"Comment": "v0.16.0-1-g7120149",
+			"Rev": "71201497bace774495daed26a3874fd339e0b538"
+		},
+		{
+			"ImportPath": "github.com/labstack/echo",
+			"Comment": "v3.3.4-58-gc54d9e8",
+			"Rev": "c54d9e8eed6ce2dfb8446ae6f9ac4eac800570bf"
+		},
+		{
+			"ImportPath": "github.com/labstack/echo/middleware",
+			"Comment": "v3.3.4-58-gc54d9e8",
+			"Rev": "c54d9e8eed6ce2dfb8446ae6f9ac4eac800570bf"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/bytes",
+			"Comment": "v0.2.8",
+			"Rev": "7fd9f68ece0bcb1a905fac8f1549f0083f71c51b"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "v0.2.8",
+			"Rev": "7fd9f68ece0bcb1a905fac8f1549f0083f71c51b"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/log",
+			"Comment": "v0.2.8",
+			"Rev": "7fd9f68ece0bcb1a905fac8f1549f0083f71c51b"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/random",
+			"Comment": "v0.2.8",
+			"Rev": "7fd9f68ece0bcb1a905fac8f1549f0083f71c51b"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.9-14-gefa5899",
+			"Rev": "efa589957cd060542a26d2dd7832fd6a6c6c3ade"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Comment": "v0.0.4-6-g3fb116b",
+			"Rev": "3fb116b820352b7f0c281308a4d6250c22d94e27"
+		},
+		{
+			"ImportPath": "github.com/patrickmn/go-cache",
+			"Comment": "v2.1.0-2-g5633e08",
+			"Rev": "5633e0862627c011927fa39556acae8b1f1df58a"
+		},
+		{
+			"ImportPath": "github.com/sdvdxl/dinghook",
+			"Comment": "v0.0.1-3-g4f7d61b",
+			"Rev": "4f7d61b92c842657bae3df52d73a5ac836ae53d9"
+		},
+		{
+			"ImportPath": "github.com/sdvdxl/falcon-message/config",
+			"Rev": "7e3b1d15bb9d0cc94caea0b881e6dd538fd2f9de"
+		},
+		{
+			"ImportPath": "github.com/sdvdxl/falcon-message/sender",
+			"Rev": "7e3b1d15bb9d0cc94caea0b881e6dd538fd2f9de"
+		},
+		{
+			"ImportPath": "github.com/sdvdxl/falcon-message/util",
+			"Rev": "7e3b1d15bb9d0cc94caea0b881e6dd538fd2f9de"
+		},
+		{
+			"ImportPath": "github.com/sdvdxl/go-tools/encrypt",
+			"Rev": "0453a2df25755540d3fa7acf5e3d99ef813e55cd"
+		},
+		{
+			"ImportPath": "github.com/tylerb/graceful",
+			"Comment": "v1.2.15-3-gd72b015",
+			"Rev": "d72b0151351a13d0421b763b88f791469c4f5dc7"
+		},
+		{
+			"ImportPath": "github.com/valyala/bytebufferpool",
+			"Comment": "v1.0.0-1-gcdfbe93",
+			"Rev": "cdfbe9377474227bb42120c1e22fd4433e7f69bf"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasttemplate",
+			"Rev": "dcecefd839c4193db0d35b88ec65b4c12d360ab0"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "3d3f9f413869b949e48070b5bc593aa22cc2b8f2"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "3d3f9f413869b949e48070b5bc593aa22cc2b8f2"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "62eef0e2fa9b2c385f7b2778e763486da6880d37"
+		},
+		{
+			"ImportPath": "gopkg.in/go-playground/validator.v9",
+			"Comment": "v9.23.0",
+			"Rev": "1fa3c8d6336562f0a3f95c73593ee2b57ff4da11"
+		}
+	]
+}
